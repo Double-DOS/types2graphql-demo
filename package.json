@@ -26,6 +26,6 @@
     "express": "^4.18.2",
     "express-graphql": "^0.12.0",
     "rimraf": "^5.0.5",
-    "types2graphql": "^0.1.2"
+    "types2graphql": "^0.1.9"
   }
 }
